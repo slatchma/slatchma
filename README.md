@@ -85,19 +85,14 @@
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=slatchma&show_icons=true&count_private=true&theme=dark&hide_border=true" align="left" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=slatchma&show_icons=true&count_private=true&theme=dark&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slatchma&theme=dark&hide_border=true&layout=compact" align="right" /></div>  
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slatchma&theme=dark&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>    
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
+
 
 ## Bonus
 
